@@ -1,6 +1,11 @@
 # Todo API
 This service is used to create a todo list with a title, description, and an initial status with a default of pending. The service supports creating, viewing all, viewing details, updating todos, and deleting todos. The database used is Oracle, but MySQL can also be used.
 
+### Test API
+1. Open postman
+2. Then import the Todo.postman_collection.json file that is in the project
+3. And you can directly hit each API in the collection
+
 ### Test unit tests
 for all tests use this command:
 ```
